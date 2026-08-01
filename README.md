@@ -6,13 +6,11 @@ La idea principal del laboratorio es renderizar una grilla de celulas usando la 
 
 ## Resultado visual
 
-El proyecto incluye un GIF generado:
+El proyecto incluye un GIF generado que muestra el programa corriendo:
 
-```text
-Lab2.gif
-```
+![Simulacion del Game of Life](Lab2.gif)
 
-Ese archivo sirve como evidencia visual del programa corriendo. La animacion usa una paleta de varios colores y un patron inicial con organismos diferentes para que la pantalla no se vea repetida.
+La animacion usa una paleta de varios colores y un patron inicial con organismos diferentes para que la pantalla no se vea repetida.
 
 ## Requisitos
 
